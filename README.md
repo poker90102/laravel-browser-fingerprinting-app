@@ -1,4 +1,3 @@
-![Laravel Surveillance Logo](https://github.com/neelkanthk/repo_logos/blob/master/LaravelSurveillance_small.png?raw=true)
 
 ![](https://img.shields.io/github/v/release/neelkanthk/laravel-surveillance?style=for-the-badge)
 ![](https://img.shields.io/packagist/php-v/neelkanthk/laravel-surveillance.svg?style=for-the-badge)
